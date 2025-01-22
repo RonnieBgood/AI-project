@@ -22,21 +22,21 @@ The maritime industry is a backbone of global trade, yet it faces constant press
 ## How is it used?
 
 Process of Using the Solution:
-Sensor Data Collection: Real-time data is collected from vessel sensors measuring engine performance, humidity, temperature, vibration, and other factors.
-AI Analysis: The system analyzes historical and live data to predict potential equipment failures or maintenance needs.
-Alerts and Recommendations: Maintenance teams receive timely alerts about predicted issues, including recommended timelines for servicing.
+- Sensor Data Collection: Real-time data is collected from vessel sensors measuring engine performance, humidity, temperature, vibration, and other factors.
+- AI Analysis: The system analyzes historical and live data to predict potential equipment failures or maintenance needs.
+- Alerts and Recommendations: Maintenance teams receive timely alerts about predicted issues, including recommended timelines for servicing.
 
 ## Data sources and AI methods
 
 Data Sources:
-Ship Sensors: Real-time data on equipment performance and environmental conditions.
-Historical Maintenance Logs: Data from past breakdowns and maintenance schedules.
-Third-Party Datasets: Weather and environmental condition datasets (e.g., humidity, salinity).
+- Ship Sensors: Real-time data on equipment performance and environmental conditions.
+- Historical Maintenance Logs: Data from past breakdowns and maintenance schedules.
+- Third-Party Datasets: Weather and environmental condition datasets (e.g., humidity, salinity).
 
 AI Methods:
-Predictive Analytics: Using machine learning models like LSTMs or Random Forests to predict failures.
-Anomaly Detection: Identifying abnormal patterns in equipment behavior using unsupervised learning.
-Visualization: Dashboards powered by AI for actionable insights.
+- Predictive Analytics: Using machine learning models like LSTMs or Random Forests to predict failures.
+- Anomaly Detection: Identifying abnormal patterns in equipment behavior using unsupervised learning.
+- Visualization: Dashboards powered by AI for actionable insights.
 
 ## Challenges
 
