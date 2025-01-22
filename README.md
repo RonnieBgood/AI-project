@@ -46,9 +46,8 @@ AI Methods:
 
 ## What next?
 
-Seafaring is heavily regulated industry. 
-
+To ensure adoption, the system must comply with maritime regulations and undergo thorough validation. Future development includes integrating environmental monitoring for emissions compliance, scaling for smaller vessels, and partnering with industry stakeholders like shipbuilders and maintenance providers. Futhermore training and perhaps certification for end users is required to ensure understanding of the system.
 
 ## Acknowledgments
 
-* The idea stems from my personal career and life at seas. Having been involved in maritime sector for over 10 years I have gained enough experience to see where operations could be streamlined. 
+This idea stems from my career and life at sea. With over 10 years of experience in the maritime sector, I’ve gained insight into operational inefficiencies and areas for improvement.
