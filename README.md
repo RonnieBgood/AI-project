@@ -11,9 +11,9 @@ The Predictive Ship Maintenance System is an AI-powered solution designed to ass
 
 Unplanned maintenance and breakdowns are common in maritime operations, especially for vessels operating in harsh environments like tropical or Arctic regions. The inability to predict these issues disrupts schedules and increases costs significantly.
 
-Unplanned Maintenance: Predicting mechanical failures caused by environmental factors helps reduce unexpected breakdowns.
-Inefficient Schedules: Current fixed maintenance schedules often lead to unnecessary or delayed servicing, wasting resources or causing failures.
-Costly Downtime: Unplanned mechanical issues often result in expensive delays and repairs.
+- Unplanned Maintenance: Predicting mechanical failures caused by environmental factors helps reduce unexpected breakdowns.
+- Inefficient Schedules: Current fixed maintenance schedules often lead to unnecessary or delayed servicing, wasting resources or causing failures.
+- Costly Downtime: Unplanned mechanical issues often result in expensive delays and repairs.
 
 Having spent over a decade in the maritime industry, I’ve experienced the challenges of unplanned maintenance and its impacts on crew operations and vessel performance. This project aims to improve operational efficiency and safety for maritime professionals.
 
